@@ -69,4 +69,3 @@ Isso reforça o uso do **Template Method Pattern**, permitindo que cada jogo ten
 - `Game` define a estrutura do jogo usando o **Template Method Pattern**.
 - `Jackpot` e `Lottery` seguem esse modelo e adicionam suas próprias regras e jogabilidade.
 - Esse design facilita a adição de novos jogos sem modificar a estrutura principal, seguindo o princípio **Open/Closed (OCP)** da programação orientada a objetos.
-# minicasino
